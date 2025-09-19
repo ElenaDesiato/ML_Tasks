@@ -4,7 +4,8 @@ This is a repository containing various ML tasks, mostly from various courses ta
 
 ## Current Structure
 
-- `IML_FS24/`:Tasks from ETH's "Introduction to Machine Learning" Course in FS 2024.
+- `IML_FS24/`: Tasks from ETH's "Introduction to Machine Learning" Course in FS 2024.
+- `HoDL_HS24/`: Tasks from ETH's "Hands-On Deep Learning" Course in HS 2024.
 
 
 ### Tasks in `IML_FS24`
@@ -21,5 +22,8 @@ These use python, numpy, pandas, scikit-learn, matplotlib, seaborn python librar
 
 - [`task4`](https://github.com/ElenaDesiato/ML_Tasks/tree/main/IML_FS24/task4)  
   Task 4 involves creating a custom dataset & dataloader, using a pre-trained model from transformers to get text embeddings before using a custom neural network to process embeddings and make predictions on a 0-10 scale.
+
+### Tasks in `HoDL_HS24`
+These are mainly notebooks with detailed descriptions & some exercises that I filled out. Topics include: Training Neural Nets, Audio Processing, Generative Computer Vision (Representation Learning, VAEs) , Graph Neural Networks, Natural Language Processing (RNNs, Finetuning,...) & Reinforcement Learning (Q-Learning, DQNs, ...). 
 
 ---
